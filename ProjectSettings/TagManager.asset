@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Detector
+  - monster
+  - Item
+  - Undefined
+  - Bullet
+  - gun
+  - skip
+  - HP
+  - UI
+  - Start
+  - End
+  - Start2
+  - End2
+  - Weapon
+  - Judger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Weapon
+  - Player
+  - Remain
+  - Chest
+  - Monster
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3962583781
+    locked: 0
+  - name: Back
+    uniqueID: 2932185139
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 2096891099
+    locked: 0
+  - name: UI
+    uniqueID: 2803499863
+    locked: 0

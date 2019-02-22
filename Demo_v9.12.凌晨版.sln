@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_v9.12.凌晨版", "Demo_v9.12.凌晨版.csproj", "{82EA060D-D556-17EC-BDD3-D870B5E4748D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_v9.12.凌晨版.Editor", "Demo_v9.12.凌晨版.Editor.csproj", "{08D36EFE-4810-B0CB-2408-2CF8420A750F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82EA060D-D556-17EC-BDD3-D870B5E4748D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82EA060D-D556-17EC-BDD3-D870B5E4748D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82EA060D-D556-17EC-BDD3-D870B5E4748D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82EA060D-D556-17EC-BDD3-D870B5E4748D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D36EFE-4810-B0CB-2408-2CF8420A750F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D36EFE-4810-B0CB-2408-2CF8420A750F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D36EFE-4810-B0CB-2408-2CF8420A750F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D36EFE-4810-B0CB-2408-2CF8420A750F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

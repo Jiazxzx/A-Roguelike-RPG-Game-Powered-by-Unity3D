@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1117386013475174}
+  m_IsPrefabParent: 1
+--- !u!1 &1117386013475174
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4632655293418416}
+  - component: {fileID: 114674923317599088}
+  - component: {fileID: 114322233730697676}
+  - component: {fileID: 114768196790951646}
+  m_Layer: 0
+  m_Name: LabBoardManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4632655293418416
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1117386013475174}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114322233730697676
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1117386013475174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e5ff198a291ef46b1322e8d4ad8614, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  irregularEdgeItem: 0.15
+  irregularInterItem: 0.01
+  roomString: Lab
+  roomHolder: {fileID: 0}
+  Item11List:
+  - {fileID: 1330335538138940, guid: 09c940f83d6f61c4ba980aaa00ae93b7, type: 2}
+  Chest11List:
+  - {fileID: 1898124019154816, guid: 5cb7002409773384588c3807e3cc1456, type: 2}
+  Barrier11List: []
+  Barrier22List:
+  - {fileID: 1559482469142992, guid: 38321793fdbc1114bbe84adb6ec93d4e, type: 2}
+  Barrier31List:
+  - {fileID: 1966582205797526, guid: 3134d30b3cf9b8d40b5eaf98f96c8848, type: 2}
+  Barrier71List:
+  - {fileID: 1659479831871314, guid: 3208a267ffb6b6640bd07230b4fb4534, type: 2}
+  Barrier15List:
+  - {fileID: 1383208580949638, guid: 4cbb99844a4845f4cbf091d99826a5fd, type: 2}
+  MonsterList:
+  - {fileID: 1961097767734732, guid: e2026fb6c753d934fa1612029ae0b4cf, type: 2}
+  Terrain11List:
+  - {fileID: 1139543483797856, guid: f1e80308862bce947ba6b9f54e311c10, type: 2}
+  Terrain22List:
+  - {fileID: 1649956662923212, guid: 012b03cdef8f86b4ab34f57b43071105, type: 2}
+  Terrain33List:
+  - {fileID: 1090780885442298, guid: 92987888dae63574988d1f1c7c1486eb, type: 2}
+  LUList:
+  - {fileID: 1277198933911744, guid: 785801ee6abbd0647b15265e15dd583a, type: 2}
+  - {fileID: 1707823621950836, guid: 177fcc697c2c6224bb2fe8a81035e68e, type: 2}
+  - {fileID: 1520366909671378, guid: be14a8deb55aadb428fb929d5a0fa8fc, type: 2}
+  LDList: []
+  RUList:
+  - {fileID: 1476461892206620, guid: 2729360ac1afb2e45bf469318973235f, type: 2}
+  - {fileID: 1048856650875906, guid: 44a9b10d66ffff842a70bb205d7ef635, type: 2}
+  - {fileID: 1260413205943664, guid: 1b2e0d2822351c9409b965b1abe44619, type: 2}
+  RDList: []
+  UpList:
+  - {fileID: 1179962783570684, guid: f5e405c9a870e6547b7f838911cc4c56, type: 2}
+  - {fileID: 1439685959675390, guid: 9fa00c165f2279b49a7989d9681dccfd, type: 2}
+  - {fileID: 1241346720400186, guid: f0c136734c80a4a408ef95215eccea19, type: 2}
+  - {fileID: 1952309990460594, guid: 9d1a189e0dc451e418a917f9c96813af, type: 2}
+  DownList: []
+  LeftList:
+  - {fileID: 1439661128153112, guid: 80c4e5d193e4a7a4eaa435e2d9422190, type: 2}
+  - {fileID: 1439685959675390, guid: 9fa00c165f2279b49a7989d9681dccfd, type: 2}
+  - {fileID: 1403860173027912, guid: 945e40dfe05e2f0498c1dd47c26b5d02, type: 2}
+  - {fileID: 1762970989793366, guid: 62ebddc66137c1a4d909daaf7e2fa15a, type: 2}
+  RightList:
+  - {fileID: 1857376474832776, guid: 14d0aa07de5fd5848bcf0b98018ef702, type: 2}
+  - {fileID: 1439685959675390, guid: 9fa00c165f2279b49a7989d9681dccfd, type: 2}
+  - {fileID: 1530598347161734, guid: 5f3625e35514a474bb168ee683d5542c, type: 2}
+  - {fileID: 1503640237499300, guid: e34b0f5ddd9468049a0613a3015933f9, type: 2}
+--- !u!114 &114674923317599088
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1117386013475174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524e427e21e7dd24083682db90941557, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  columns: 300
+  rows: 300
+  numRooms:
+    m_Min: 30
+    m_Max: 40
+  roomWidth:
+    m_Min: 13
+    m_Max: 13
+  roomHeight:
+    m_Min: 13
+    m_Max: 13
+  corridorLength:
+    m_Min: 13
+    m_Max: 15
+  floorTiles:
+  - {fileID: 1138902202500154, guid: 154435cbf826e3f478df1a301dae89ca, type: 2}
+  CorridorTiles:
+  - {fileID: 1263472791319072, guid: 4f80e8cafa640c64982ceec3354b5fdb, type: 2}
+  - {fileID: 1365271300503412, guid: af5a04bdd15b22d40816669d031f63f5, type: 2}
+  - {fileID: 1917875229214574, guid: 0e420701369a7fc4a8b40628392f3897, type: 2}
+  - {fileID: 1581795516226484, guid: b5cf64d38d0fff94bb0f6ddec3871054, type: 2}
+  wallTiles:
+  - {fileID: 1959748673912490, guid: 782c268c67fe4bd4190faac2ebbd5cb4, type: 2}
+  - {fileID: 1204972940735232, guid: 49734059bd1b786478a8686303705f4d, type: 2}
+  - {fileID: 1099821801781744, guid: d4c15544137cc1548b1522b12f11c627, type: 2}
+  - {fileID: 1654987259945366, guid: 8d1b1ff74fa62244993c91af428a4c8d, type: 2}
+  - {fileID: 1101794686569026, guid: 499efc307bcb02b4dabfae5161d4c4e7, type: 2}
+  - {fileID: 1703461239093924, guid: 2c456a00016087a4aa5c7bfbcd009245, type: 2}
+  - {fileID: 1463496770319454, guid: 6f6ee341bf6ff1546b08e933270ed701, type: 2}
+  - {fileID: 1411884348657812, guid: ef04b952414ad3742969e1038c69e592, type: 2}
+  inwallTiles:
+  - {fileID: 1959748673912490, guid: 782c268c67fe4bd4190faac2ebbd5cb4, type: 2}
+  - {fileID: 1204972940735232, guid: 49734059bd1b786478a8686303705f4d, type: 2}
+  - {fileID: 1099821801781744, guid: d4c15544137cc1548b1522b12f11c627, type: 2}
+  - {fileID: 1654987259945366, guid: 8d1b1ff74fa62244993c91af428a4c8d, type: 2}
+  - {fileID: 1101794686569026, guid: 499efc307bcb02b4dabfae5161d4c4e7, type: 2}
+  - {fileID: 1703461239093924, guid: 2c456a00016087a4aa5c7bfbcd009245, type: 2}
+  - {fileID: 1463496770319454, guid: 6f6ee341bf6ff1546b08e933270ed701, type: 2}
+  - {fileID: 1411884348657812, guid: ef04b952414ad3742969e1038c69e592, type: 2}
+  outerWallTiles:
+  - {fileID: 1138902202500154, guid: 154435cbf826e3f478df1a301dae89ca, type: 2}
+  player: {fileID: 1309604995357578, guid: 1910e9007d78b9b47a7e9b09f4c4a2e0, type: 2}
+  sPrefab: {fileID: 1621467385427782, guid: c44b2e4a75dc11e40973ce6fd41181a0, type: 2}
+  ePrefab: {fileID: 1723911841391142, guid: ec2c74193069e11459c8e91b9f63c07a, type: 2}
+  sPrefab2: {fileID: 1776326164399968, guid: b896a04956c95214194223bdb8d29dd9, type: 2}
+  gunPrefab: {fileID: 1426046629014210, guid: 1ab85a92e0431914ca7f965930e89e36, type: 2}
+--- !u!114 &114768196790951646
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1117386013475174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 372142912, guid: 870353891bb340e2b2a9c8707e7419ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SceneId:
+    m_Value: 0
+  m_AssetId:
+    i0: 88
+    i1: 129
+    i2: 200
+    i3: 198
+    i4: 107
+    i5: 126
+    i6: 109
+    i7: 196
+    i8: 202
+    i9: 251
+    i10: 164
+    i11: 75
+    i12: 174
+    i13: 192
+    i14: 120
+    i15: 185
+  m_ServerOnly: 1
+  m_LocalPlayerAuthority: 0

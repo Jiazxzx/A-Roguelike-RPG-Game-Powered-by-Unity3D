@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_v9.12.凌晨版小改只增加远程怪物素材", "Demo_v9.12.凌晨版小改只增加远程怪物素材.csproj", "{08834480-7854-49BC-8B10-DF8DD627EFE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_v9.12.凌晨版小改只增加远程怪物素材.Editor", "Demo_v9.12.凌晨版小改只增加远程怪物素材.Editor.csproj", "{DCE0922F-BE13-EFAD-BC31-A3D335FC6186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08834480-7854-49BC-8B10-DF8DD627EFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08834480-7854-49BC-8B10-DF8DD627EFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08834480-7854-49BC-8B10-DF8DD627EFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08834480-7854-49BC-8B10-DF8DD627EFE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE0922F-BE13-EFAD-BC31-A3D335FC6186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE0922F-BE13-EFAD-BC31-A3D335FC6186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE0922F-BE13-EFAD-BC31-A3D335FC6186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE0922F-BE13-EFAD-BC31-A3D335FC6186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_v9.11.凌晨版_带UI", "Demo_v9.11.凌晨版_带UI.csproj", "{2ECB6BB3-3C45-B06C-7E6A-C0ECAC04F24F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_v9.11.凌晨版_带UI.Editor", "Demo_v9.11.凌晨版_带UI.Editor.csproj", "{6E57E03F-0108-9D7C-DB48-C62A672391F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ECB6BB3-3C45-B06C-7E6A-C0ECAC04F24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECB6BB3-3C45-B06C-7E6A-C0ECAC04F24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECB6BB3-3C45-B06C-7E6A-C0ECAC04F24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECB6BB3-3C45-B06C-7E6A-C0ECAC04F24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E57E03F-0108-9D7C-DB48-C62A672391F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E57E03F-0108-9D7C-DB48-C62A672391F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E57E03F-0108-9D7C-DB48-C62A672391F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E57E03F-0108-9D7C-DB48-C62A672391F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

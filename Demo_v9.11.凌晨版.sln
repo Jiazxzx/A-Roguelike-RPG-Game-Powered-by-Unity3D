@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_v9.11.凌晨版", "Demo_v9.11.凌晨版.csproj", "{310CFBA5-F9B7-4C25-06E7-1B4C155AE04C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_v9.11.凌晨版.Editor", "Demo_v9.11.凌晨版.Editor.csproj", "{24661976-9142-3FB7-B3B0-A113B21E3E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{310CFBA5-F9B7-4C25-06E7-1B4C155AE04C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310CFBA5-F9B7-4C25-06E7-1B4C155AE04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310CFBA5-F9B7-4C25-06E7-1B4C155AE04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310CFBA5-F9B7-4C25-06E7-1B4C155AE04C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24661976-9142-3FB7-B3B0-A113B21E3E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24661976-9142-3FB7-B3B0-A113B21E3E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24661976-9142-3FB7-B3B0-A113B21E3E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24661976-9142-3FB7-B3B0-A113B21E3E70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
